@@ -1,0 +1,10 @@
+{
+  "name": "backend",
+  "version": "0.1.0",
+  "description": "Node Backend for Reactive Community",
+  "main": "index.js",
+  "repository": "https://github.com/alexvcasillas/react-forum-system.git",
+  "author": "Alex Casillas <alexvcasillas@gmail.com>",
+  "license": "BSD 3-Clause \"New\" or \"Revised\" License",
+  "private": true
+}
